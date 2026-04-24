@@ -1,0 +1,9 @@
+pygrametl
+psycopg2
+mysql-connector-python
+pandas
+numpy
+matplotlib
+seaborn
+python-dateutil
+jupyter
